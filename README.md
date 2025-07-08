@@ -2,7 +2,7 @@
 
 Two microservices user-service-new and post-service-new and their communication between them.
 
-## Things achieved in this project:
+## Things practiced in this project:
 
 1. Spring Boot CRUD operations
 2. MySQL Integration
